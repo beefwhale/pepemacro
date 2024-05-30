@@ -18,3 +18,10 @@
 //#define NO_ACTION_LAYER
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
+
+
+// #define RGBLIGHT_LAYERS
+#undef WS2812_DI_PIN
+#define WS2812_DI_PIN GP28
+#undef RGBLED_NUM
+#define RGBLED_NUM 9
