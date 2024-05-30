@@ -1,6 +1,6 @@
 # handwired/pepemacro
 
-![handwired/pepemacro](imgur.com image replace me!)
+![handwired/pepemacro](4k0w7k3a0t461.webp)
 
 *A short description of the keyboard/project*
 
