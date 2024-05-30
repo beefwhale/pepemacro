@@ -1,7 +1,7 @@
 {
     "name": "pepemacro",
-    "vendorId": "0x0000",
-    "productId": "0x7971",
+    "vendorId": "0x7971",
+    "productId": "0x0000",
     "matrix": {
         "rows": 3,
         "cols": 4
